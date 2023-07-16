@@ -2,7 +2,6 @@
 /* Your CSS Code here. */
 nav ul{
 	list-style-type:none;
-	background-color:darkblue;
 	overflow:hidden;
 }
 nav li{
@@ -10,7 +9,4 @@ nav li{
 	padding:10px;
 	float:left;
 }
-nav a{
-	
-	color:white;
-}
+
